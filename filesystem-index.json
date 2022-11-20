@@ -1,4 +1,8 @@
 {
+  "CNAME": null,
+  "CONTRIBUTING.md": null,
+  "README.md": null,
+  "TODO.md": null,
   "android-chrome-192x192.png": null,
   "android-chrome-256x256.png": null,
   "apple-touch-icon.png": null,
@@ -17,7 +21,6 @@
   "classic.css": null,
   "desktop": {
     "CREDITS.txt": null,
-    "cobb_coin.txt": null,
     "Themes": {
       "Ash.themepack": null,
       "Blue.themepack": null,
@@ -81,8 +84,7 @@
         "readme.txt": null,
         "themes for windows 8.url": null
       }
-    },
-    "film.txt": null
+    }
   },
   "extract-icons.sh": null,
   "favicon-16x16.png": null,
@@ -560,7 +562,10 @@
     "Google Docs.url": null
   },
   "my-pictures": {
-    "moda1.jpeg": null
+    "Dropbox.url": null,
+    "Flickr.url": null,
+    "Google Photos.url": null,
+    "Instagram.url": null
   },
   "network-neighborhood": {
     "Windows 93.url": null,
@@ -592,6 +597,36 @@
         "LICENSE": null,
         "README.md": null,
         "engine": {
+          "CMakeCache.txt": null,
+          "CMakeFiles": {
+            "3.20.5": {
+              "CMakeCCompiler.cmake": null,
+              "CMakeCXXCompiler.cmake": null,
+              "CMakeSystem.cmake": null
+            },
+            "CMakeDirectoryInformation.cmake": null,
+            "CMakeOutput.log": null,
+            "Engine.dir": {
+              "DependInfo.cmake": null,
+              "build.make": null,
+              "cmake_clean.cmake": null,
+              "cmake_clean_target.cmake": null,
+              "compiler_depend.make": null,
+              "compiler_depend.ts": null,
+              "depend.make": null,
+              "flags.make": null,
+              "includes_CXX.rsp": null,
+              "link.txt": null,
+              "progress.make": null,
+              "wrapper.cpp.o": null,
+              "wrapper.cpp.o.d": null
+            },
+            "Makefile.cmake": null,
+            "Makefile2": null,
+            "TargetDirectories.txt": null,
+            "cmake.check_cache": null,
+            "progress.marks": null
+          },
           "CMakeLists.txt": null,
           "CODE_OF_CONDUCT.md": null,
           "CONTRIBUTING.md": null,
@@ -609,6 +644,85 @@
               "scifunc.cpp": null,
               "scioper.cpp": null,
               "sciset.cpp": null
+            },
+            "CMakeFiles": {
+              "CMakeDirectoryInformation.cmake": null,
+              "CalcManager.dir": {
+                "CEngine": {
+                  "CalcInput.cpp.o": null,
+                  "CalcInput.cpp.o.d": null,
+                  "CalcUtils.cpp.o": null,
+                  "CalcUtils.cpp.o.d": null,
+                  "History.cpp.o": null,
+                  "History.cpp.o.d": null,
+                  "Number.cpp.o": null,
+                  "Number.cpp.o.d": null,
+                  "Rational.cpp.o": null,
+                  "Rational.cpp.o.d": null,
+                  "RationalMath.cpp.o": null,
+                  "RationalMath.cpp.o.d": null,
+                  "calc.cpp.o": null,
+                  "calc.cpp.o.d": null,
+                  "scicomm.cpp.o": null,
+                  "scicomm.cpp.o.d": null,
+                  "scidisp.cpp.o": null,
+                  "scidisp.cpp.o.d": null,
+                  "scifunc.cpp.o": null,
+                  "scifunc.cpp.o.d": null,
+                  "scioper.cpp.o": null,
+                  "scioper.cpp.o.d": null,
+                  "sciset.cpp.o": null,
+                  "sciset.cpp.o.d": null
+                },
+                "CalculatorHistory.cpp.o": null,
+                "CalculatorHistory.cpp.o.d": null,
+                "CalculatorManager.cpp.o": null,
+                "CalculatorManager.cpp.o.d": null,
+                "DependInfo.cmake": null,
+                "ExpressionCommand.cpp.o": null,
+                "ExpressionCommand.cpp.o.d": null,
+                "NumberFormattingUtils.cpp.o": null,
+                "NumberFormattingUtils.cpp.o.d": null,
+                "Ratpack": {
+                  "basex.cpp.o": null,
+                  "basex.cpp.o.d": null,
+                  "conv.cpp.o": null,
+                  "conv.cpp.o.d": null,
+                  "exp.cpp.o": null,
+                  "exp.cpp.o.d": null,
+                  "fact.cpp.o": null,
+                  "fact.cpp.o.d": null,
+                  "itrans.cpp.o": null,
+                  "itrans.cpp.o.d": null,
+                  "itransh.cpp.o": null,
+                  "itransh.cpp.o.d": null,
+                  "logic.cpp.o": null,
+                  "logic.cpp.o.d": null,
+                  "num.cpp.o": null,
+                  "num.cpp.o.d": null,
+                  "rat.cpp.o": null,
+                  "rat.cpp.o.d": null,
+                  "support.cpp.o": null,
+                  "support.cpp.o.d": null,
+                  "trans.cpp.o": null,
+                  "trans.cpp.o.d": null,
+                  "transh.cpp.o": null,
+                  "transh.cpp.o.d": null
+                },
+                "UnitConverter.cpp.o": null,
+                "UnitConverter.cpp.o.d": null,
+                "build.make": null,
+                "cmake_clean.cmake": null,
+                "cmake_clean_target.cmake": null,
+                "compiler_depend.make": null,
+                "compiler_depend.ts": null,
+                "depend.make": null,
+                "flags.make": null,
+                "includes_CXX.rsp": null,
+                "link.txt": null,
+                "progress.make": null
+              },
+              "progress.marks": null
             },
             "CMakeLists.txt": null,
             "CalcManager.vcxproj": null,
@@ -637,6 +751,7 @@
               "Rational.h": null,
               "RationalMath.h": null
             },
+            "Makefile": null,
             "NumberFormattingUtils.cpp": null,
             "NumberFormattingUtils.h": null,
             "Ratpack": {
@@ -658,12 +773,39 @@
             },
             "UnitConverter.cpp": null,
             "UnitConverter.h": null,
+            "cmake_install.cmake": null,
+            "libCalcManager.a": null,
             "pch.cpp": null,
             "pch.h": null,
             "sal_cross_platform.h": null,
             "winerror_cross_platform.h": null
           },
           "CalcModel": {
+            "CMakeFiles": {
+              "CMakeDirectoryInformation.cmake": null,
+              "CalcModel.dir": {
+                "Common": {
+                  "CalcDisplay.cpp.o": null,
+                  "CalcDisplay.cpp.o.d": null,
+                  "EngineResourceProv.cpp.o": null,
+                  "EngineResourceProv.cpp.o.d": null
+                },
+                "DependInfo.cmake": null,
+                "StandardModel.cpp.o": null,
+                "StandardModel.cpp.o.d": null,
+                "build.make": null,
+                "cmake_clean.cmake": null,
+                "cmake_clean_target.cmake": null,
+                "compiler_depend.make": null,
+                "compiler_depend.ts": null,
+                "depend.make": null,
+                "flags.make": null,
+                "includes_CXX.rsp": null,
+                "link.txt": null,
+                "progress.make": null
+              },
+              "progress.marks": null
+            },
             "CMakeLists.txt": null,
             "Common": {
               "CalcDisplay.cpp": null,
@@ -671,14 +813,19 @@
               "EngineResourceProv.cpp": null,
               "EngineResourceProv.h": null
             },
+            "Makefile": null,
             "StandardModel.cpp": null,
-            "StandardModel.h": null
+            "StandardModel.h": null,
+            "cmake_install.cmake": null,
+            "libCalcModel.a": null
           },
           "LICENSE": null,
+          "Makefile": null,
           "NOTICE.txt": null,
           "README.md": null,
           "SECURITY.md": null,
           "clean.sh": null,
+          "cmake_install.cmake": null,
           "docs": {
             "ApplicationArchitecture.md": null,
             "Images": {
@@ -700,6 +847,7 @@
           },
           "engine.js": null,
           "engine.wasm": null,
+          "libEngine.a": null,
           "wrapper.cpp": null
         },
         "server": {
