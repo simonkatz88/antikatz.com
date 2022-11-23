@@ -251,7 +251,7 @@ function Notepad(file_path) {
 		src: "programs/notepad/index.html" + (file_path ? ("?path=" + file_path) : ""),
 		icons: iconsAtTwoSizes("notepad"),
 		title: win_title,
-		outerWidth: 480,
+		outerWidth: 400,
 		outerHeight: 321,
 		resizable: true,
 	});
