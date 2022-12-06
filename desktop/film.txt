@@ -6,15 +6,16 @@ To enquire:
 email simon@antikatz.com
 ———————————————————————————————————————————————
 FAQ:
+
 Q: How do I give you my film?
 A: For now, contact me directly
 and I’ll meet you somewhere on
-campus. In the future, I plan
-on having a drop off box located
+campus. In the future, I plan to 
+also have a drop off box located
 in Cobb Cafe. 
 
 Q: What is your turn around time?
-A: Worst case, It shouldn’t take 
+A: Worst case, it shouldn’t take 
 more than 1 week. If you contact 
 me, I can give you an actual answer. 
 I process 2 roles at once, so if 
@@ -22,26 +23,36 @@ you drop off 2 rolls or a multiple
 of 2 your chance of getting scans 
 back quickly increases greatly.
 
-Q: Do you scan 120/ why the asterisk?
-A: My scanning set up is optimized for 
-35mm. If you need 120 film scanned, 
-contact me directly to see 120 scanning 
-samples and comparisons. If you think 
-my scans are sufficient, scanning 120 
-is an additional $5 on top of the 
-developing price. 
+Q:How do your scans compare to lab 
+scans(Frontier, Noritsu, etc.) and 
+other services?
+A: For 35mm film, the ‘scans’ from 
+my setup surpass the quality of a lab 
+scan in color rendering, dynamic 
+range, and detail. If you are 
+familiar with a service like 
+thedarkroom.com my scans 
+contain ~16x as many pixels
+as their standard scan and have
+roughly the same resolution as
+their most expensive tier of scan.
 
-Q: How do you scan negatives and 
-how do your scans compare to lab 
-scans(Frontier, Noritsu, etc.)?
+Q: How do you scan negatives? 
 A: I ‘scan’ using a Fujifilm X-Pro2, 
 Sigma 50mm f/2.8 EX DG Macro Lens, 95+ CRI 
 light source, and a Valoi 360 negative 
-holder system. For 35mm film, 
-the ‘scans’ from this set up 
-surpass the quality of a lab 
-scan in color rendering, dynamic 
-range, and detail.
+holder system. 
+
+Q: Do you scan 120/ why the asterisk?
+A: My scanning setup is optimized for 
+35mm. If you need 120 film scanned, 
+contact me to see 120 scanning 
+samples and comparisons to other 
+scanning methods (virtual drum scanning 
+and flatbed scanning). If you think 
+my scans are sufficient, scanning 120 
+is an additional $5 on top of the 
+developing price. 
 
 Q: Do you develop black and 
 white, slide (ECN-6), or 
@@ -52,7 +63,7 @@ chemistry and supplies I will
 develop any and all of the listed 
 above. However, for ECN-2 and ECN-6 
 there will be an additional 
-‘this is a massive headache for me’ fee. 
+‘this is a massive headache for me’ fee.
 
 Q: What chemistry do you use?
 A: I develop using Cinestill’s C41 chemistry.
