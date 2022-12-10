@@ -732,8 +732,8 @@ function openWinamp(file_path) {
 					artist: "CHARLI, BABY",
 					title: "1999",
 				},
-				url: "programs/winamp/mp3/anthems.mp3",
-				duration: 170.322286,
+				url: "programs/winamp/mp3/1999.mp3",
+				duration: 193.322286,
 			}],
 			// initialSkin: {
 			// 	url: "programs/winamp/skins/base-2.91.wsz",
