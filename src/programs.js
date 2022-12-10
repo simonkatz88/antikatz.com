@@ -729,7 +729,7 @@ function openWinamp(file_path) {
 		const webamp_options = {
 			initialTracks: [{
 				metaData: {
-					artist: "CHARLI, BABY",
+					artist: "CHARLI XCX",
 					title: "1999",
 				},
 				url: "programs/winamp/mp3/1999.mp3",
