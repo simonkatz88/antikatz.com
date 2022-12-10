@@ -733,7 +733,7 @@ function openWinamp(file_path) {
 					title: "1999",
 				},
 				url: "programs/winamp/mp3/anthems.mp3",
-				duration: 5.322286,
+				duration: 170.322286,
 			}],
 			// initialSkin: {
 			// 	url: "programs/winamp/skins/base-2.91.wsz",
