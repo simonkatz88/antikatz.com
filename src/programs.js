@@ -729,10 +729,10 @@ function openWinamp(file_path) {
 		const webamp_options = {
 			initialTracks: [{
 				metaData: {
-					artist: "DJ Mike Llama",
-					title: "Llama Whippin' Intro",
+					artist: "CHARLI, BABY",
+					title: "1999",
 				},
-				url: "programs/winamp/mp3/llama-2.91.mp3",
+				url: "programs/winamp/mp3/anthems.mp3",
 				duration: 5.322286,
 			}],
 			// initialSkin: {
