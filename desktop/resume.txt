@@ -1,5 +1,5 @@
-Simon Katz
-simonkatz@uchicago.edu | (310) 560-1577
+                                Simon Katz
+                         simonkatz@uchicago.edu
 
 EDUCATION				
 The University of Chicago 	                            Expected, June 2025
@@ -15,7 +15,7 @@ project
 
 Content Carnivores			          	      Chicago, Illinois
 Data Science Intern                  		        September 2022 - Present
-•	Built a dashboard using the ClinicalTrials.gov API to track clinical 
+• Built a dashboard using the ClinicalTrials.gov API to track clinical 
 trial progress of idiopathic hypersomnia and other rare diseases
 •	Created internal research tools to reduce a research and analysis 
 workflows took from 3 months to a couple of hours using python to automate 
