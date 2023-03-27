@@ -23,8 +23,8 @@ workflows took from 3 months to a couple of hours using python to automate
 collection, formatting, and visualization of data regarding the development 
 of competitor pharmaceuticals
 
-MedSwift Social			          	                            Chicago, Illinois
-Chief Technology Officer          October 2022 – February 2023
+MedSwift Social			          	              Chicago, Illinois
+Chief Technology Officer                        October 2022 – February 2023
 • Built a Fast Healthcare Interoperability Resource (FIHR) compliant 
 application with MongoDB, Next.JS, Node.JS, and React to allow doctors to 
 see quality of life metrics about patients by integrating with Epic’s health 
@@ -49,7 +49,7 @@ competition
 • Designed plasmid maps for a project that aimed to use synthetic biology 
 techniques to detect target chemicals in contaminated water
 
-Photography						                                     Chicago, Illinois
+Photography						                          Chicago, Illinois
 Photographer and Studio Assistant	               October 2022 –  Present
 • Working as a studio assistant for Guggenheim Fellowship recipient Laura 
 Letinsky
