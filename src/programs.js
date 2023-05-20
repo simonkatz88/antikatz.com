@@ -727,7 +727,12 @@ function openWinamp(file_path) {
 
 	load_winamp_bundle_if_not_loaded(includeButterchurn, function () {
 		const webamp_options = {
-			initialTracks: [{url: "programs/winamp/mp3/1999.mp3"},{metaData: {artist: "CHARLI XCX",title: "Anthems",},url: "programs/winamp/mp3/anthems.mp3", duration: 160.322286,}],
+			initialTracks: [{url: "programs/winamp/mp3/1999.mp3"},
+					{metaData: {artist: "CHARLI XCX",title: "Anthems",},
+					 url: "programs/winamp/mp3/anthems.mp3", duration: 160.322286,},
+					{url: "programs/winamp/mp3/Amadeezy - Wetty.mp3"},
+					{url: "programs/winamp/mp3/Arca - KLK.mp3"}
+				       ],
 			// initialSkin: {
 			// 	url: "programs/winamp/skins/base-2.91.wsz",
 			// },
