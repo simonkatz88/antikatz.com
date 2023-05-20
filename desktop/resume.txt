@@ -1,0 +1,64 @@
+                                Simon Katz
+                         simonkatz@uchicago.edu
+
+EDUCATION				
+The University of Chicago 	                            Expected, June 2025
+Bachelor of Science in Data Science and Bachelor of Art in Media Art and Design
+GPA: 3.8
+
+EXPERIENCE
+
+NextGen Growth Partners			          	      Chicago, Illinois
+Data Science Intern                  	                   March 2023 - Present
+• Scraped the websites of over 150,000 PPP loan recipients and rewrote 
+previous code to save a projected $60,000 in API calls over the course of the 
+project 
+
+Content Carnivores			          	      Chicago, Illinois
+Data Science Intern                  		       September 2022 - Present
+• Built a dashboard using the ClinicalTrials.gov API to track clinical 
+trial progress of idiopathic hypersomnia and other rare diseases
+• Created internal research tools to reduce a research and analysis 
+workflows took from 3 months to a couple of hours using python to automate 
+collection, formatting, and visualization of data regarding the development 
+of competitor pharmaceuticals
+
+MedSwift Social			          	              Chicago, Illinois
+Chief Technology Officer                        October 2022 – February 2023
+• Built a Fast Healthcare Interoperability Resource (FIHR) compliant 
+application with MongoDB, Next.JS, Node.JS, and React to allow doctors to 
+see quality of life metrics about patients by integrating with Epic’s health 
+management systems and Chicago’s Array of Things (AoT) infrastructure
+• Selected as a finalist College New Venture Challenge, a nationally 
+ranked venture capital accelerator challenge program with a prize of $100,000
+
+The Benjamin Glick Lab			          	     Chicago, Illinois
+Wet lab                  			   June 2022 - September 2022
+• Designed and optimized a bacterial bio-circuit for a biosensor to detect 
+perfluorooctanoic acid (PFOA) which significantly lowered the financial barrier 
+to entry for detection of PFOA when compared to traditional means of detection 
+(mass spectrometry tandem liquid chromatography)
+• Received more than $30,000 worth of sponsorships from Twist Bioscience, 
+Integrated DNA Technologies, New England Biolabs, and others 
+
+LEADERSHIP & ACTIVITIES				
+Genehackers (Synthetic Biology Club)			      Chicago, Illinois
+Lab Director and Member of the Board	               November 2021 –  Present
+• Competed in the International Genetically Engineered Machine (iGEM) 
+competition
+• Designed plasmid maps for a project that aimed to use synthetic biology 
+techniques to detect target chemicals in contaminated water
+
+Photography						     Chicago, Illinois
+Photographer and Studio Assistant	               October 2022 –  Present
+• Working as a studio assistant for Guggenheim Fellowship recipient Laura 
+Letinsky
+• Paid consultant to the University of Chicago’s Visual Resource Center 
+on archiving and digitizing film
+SKILLS				
+Languages: English (Native speaker), Spanish (Intermediate), Mandarin (Beginner), 
+Norwegian (Beginner) 
+Skills, Software, and Libraries: Python, Panadas, Selenium, Scikit-Learn, Keras, 
+PyTorch, MongoDB, SQL, Spark, AWS Amplify, JavaScript, React, Microsoft Excel, 
+Relevant Coursework: Data Science I&II, Computer Science, Statistics, 
+Multi-variable Calculus, Linear Algebra
