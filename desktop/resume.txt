@@ -8,15 +8,15 @@ GPA: 3.8
 
 EXPERIENCE
 
-Ticketmaster                            Los Angeles, California
-Data Engineering Intern                         May 2023 - Present
-• Designed a proof-of-concept pricing tool suite for Universe.com 
-that is currently being used in a pilot program with Netflix and 
-BBC Earth
-• Used Apache Kafka and Spark Streaming to build a real time ETL 
-enabling the managed pricing team to make real time decisions Platinum sold inventory decreasing latency by a factor of 192
-• Built relative game quality models used by 6 managed pricing clients 
-across the NBA and NHL using XGBoost, PySpark, and Databricks MLflow
+Ticketmaster                                          Los Angeles, California
+Data Engineering Intern                                    May 2023 - Present
+• Designed a proof-of-concept pricing tool suite for Universe.com that is 
+currently being used in a pilot program with Netflix and BBC Earth
+• Used Apache Kafka and Spark Streaming to build a real time ETL enabling the 
+managed pricing team to make real time decisions Platinum sold inventory 
+decreasing latency by a factor of 192
+• Built relative game quality models used by 6 managed pricing clients across 
+the NBA and NHL using XGBoost, PySpark, and Databricks MLflow
 
 NextGen Growth Partners			          	      Chicago, Illinois
 Data Science Intern                  	          March 2023 - May 2023
@@ -25,7 +25,7 @@ previous code to save a projected $60,000 in API calls over the course of the
 project 
 
 Content Carnivores			          	      Chicago, Illinois
-Data Science Intern                  		       September 2022 - May 2023
+Data Science Intern                  		   September 2022 - May 2023
 • Built a dashboard using the ClinicalTrials.gov API to track clinical 
 trial progress of idiopathic hypersomnia and other rare diseases
 • Created internal research tools to reduce a research and analysis 
