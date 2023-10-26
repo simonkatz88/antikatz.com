@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700"
+    />
+    <style>
+      /* Common CSS for both mobile and desktop */
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+      }
+
+      .image-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+      }
+
+      .responsive-image {
+        max-width: 100%;
+        height: auto;
+        display: block;
+      }
+
+      .title {
+        font-family: "Roboto Mono", monospace; /* Use a monospaced font like Roboto Mono from Google Fonts */
+        font-size: 24px;
+        margin-top: 10px; /* Add spacing between the image and the title */
+      }
+
+      /* CSS for adjusting image size on different screen widths */
+      @media screen and (max-width: 767px) {
+        .responsive-image {
+          width: 90%; /* Scale down on mobile */
+        }
+      }
+
+      @media screen and (min-width: 768px) {
+        .responsive-image {
+          width: 50%; /* Scale up on desktop */
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="image-container">
+      <img class="responsive-image" src="ai_images/b0.png" />
+      <div class="title">Lorem</div>
+    </div>
+  </body>
+</html>
